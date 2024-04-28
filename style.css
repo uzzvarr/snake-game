@@ -1,0 +1,20 @@
+#mainContainer{
+    text-align: center;
+}
+
+#Board{
+    border: 3px solid;
+}
+
+#score{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+#reset{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px ;
+    width: 100px;
+    height: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
